@@ -1,5 +1,4 @@
 package com.taller.batallas.criaturas;
-
 import com.taller.batallas.armas.Arma;
 import com.taller.batallas.interfaces.Magico;
 
