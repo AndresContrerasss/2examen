@@ -1,4 +1,4 @@
-package com.taller.batallas.criaturas;
+package com.taller.batallas.Criaturas;
 
 import com.taller.batallas.armas.Arma;
 import com.taller.batallas.interfaces.Magico;

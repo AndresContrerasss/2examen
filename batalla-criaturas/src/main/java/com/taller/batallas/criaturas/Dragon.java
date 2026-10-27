@@ -1,7 +1,6 @@
-package com.taller.batallas.criaturas;
+package com.taller.batallas.Criaturas;
 
 import com.taller.batallas.armas.Arma;
-import com.taller.batallas.interfaces.Volador;
 
 public class Dragon extends Criatura implements Volador {
 
