@@ -1,10 +1,10 @@
-package com.taller.batallas.interfaces;
+package com.taller.batallas;
 
-import com.taller.batallas.Criaturas.Criatura;
-import com.taller.batallas.Criaturas.Dragon;
-import com.taller.batallas.Criaturas.Guerrero;
-import com.taller.batallas.Criaturas.Mago;
 import com.taller.batallas.armas.Arma;
+import com.taller.batallas.criaturas.Criatura;
+import com.taller.batallas.criaturas.Dragon;
+import com.taller.batallas.criaturas.Guerrero;
+import com.taller.batallas.criaturas.Mago;
 
 public class Main {
 

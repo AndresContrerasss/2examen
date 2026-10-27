@@ -1,4 +1,5 @@
-package com.taller.batallas.Criaturas;
+package com.taller.batallas.criaturas;
+
 
 import com.taller.batallas.armas.Arma;
 

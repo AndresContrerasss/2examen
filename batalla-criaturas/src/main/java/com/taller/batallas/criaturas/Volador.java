@@ -1,4 +1,4 @@
-package com.taller.batallas.interfaces;
+package com.taller.batallas.criaturas;
 
 public interface Volador {
     void volar();
